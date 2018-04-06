@@ -1,0 +1,38 @@
+{
+    "name": "hw-bubbles",
+    "description": "hw-bubbles",
+    "author": "prof",
+    "keywords": [
+        "hw-bubbles"
+    ],
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "gulp test"
+    },
+    "devDependencies": {
+        "eslint": "^3.15.0",
+        "gulp": "^3.9.1",
+        "mocha": "^3.2.0",
+        "mute": "^2.0.6",
+        "q": "^1.4.1",
+        "request": "^2.83.0"
+    },
+    "dependencies": {
+        "bluebird": "^3.5.0",
+        "chai": "^3.5.0",
+        "cheerio": "^1.0.0-rc.2",
+        "curl": "^0.1.4",
+        "fs": "0.0.1-security",
+        "html-minifier": "^3.5.9",
+        "mocha": "^3.2.0",
+        "node-fetch": "^2.0.0",
+        "require": "^2.4.20",
+        "requirejs": "^2.3.5",
+        "sync-request": "^6.0.0"
+    }
+}
